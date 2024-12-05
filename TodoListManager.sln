@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListManager.API", "TodoListManager.API\TodoListManager.API.csproj", "{90B320B4-7B69-4ADE-8CEA-7BE75D42C7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListManager.Application", "TodoListManager.Application\TodoListManager.Application.csproj", "{53559EC7-B919-4701-A53B-4177F79D3337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoListManager.Communication", "TodoListManager.Communication\TodoListManager.Communication.csproj", "{B059AAE8-CC84-487A-8E80-F61C76A32BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B320B4-7B69-4ADE-8CEA-7BE75D42C7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B320B4-7B69-4ADE-8CEA-7BE75D42C7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B320B4-7B69-4ADE-8CEA-7BE75D42C7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B320B4-7B69-4ADE-8CEA-7BE75D42C7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53559EC7-B919-4701-A53B-4177F79D3337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53559EC7-B919-4701-A53B-4177F79D3337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53559EC7-B919-4701-A53B-4177F79D3337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53559EC7-B919-4701-A53B-4177F79D3337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B059AAE8-CC84-487A-8E80-F61C76A32BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B059AAE8-CC84-487A-8E80-F61C76A32BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B059AAE8-CC84-487A-8E80-F61C76A32BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B059AAE8-CC84-487A-8E80-F61C76A32BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
